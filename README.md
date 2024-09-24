@@ -1,4 +1,5 @@
 **Apple Product Price Tracker**
+
 *Overview*
 The Apple Product Price Tracker is a Python-based web scraping tool designed to monitor the prices of Apple products across various e-commerce platforms. The application helps users track product prices and identify optimal deals efficiently by comparing prices across different websites.
 
